@@ -1,5 +1,11 @@
 # Titan-Audio-Link PHP SDK
 
+<!-- simple-start:start -->
+Use Titan-Audio-Link from a PHP app.
+
+**Start here.** Run `composer require titancsa/titan-audio-link`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Get the driver without the one-hour demo limit**
 >
